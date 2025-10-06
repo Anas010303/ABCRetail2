@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlQFXHYTe4o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dabcc\\Desktop\\ABC RETAIL2\\ABC_Retail2\\ABC_Retail2\\ABC_Retail2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dabcc\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\azure.data.tables\\12.11.0\\azure.data.tables.12.11.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\azure.storage.blobs\\12.19.0\\azure.storage.blobs.12.19.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\azure.storage.common\\12.18.0\\azure.storage.common.12.18.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\azure.storage.files.shares\\12.9.0\\azure.storage.files.shares.12.9.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\azure.storage.queues\\12.10.0\\azure.storage.queues.12.10.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.clientmodel\\1.1.0\\system.clientmodel.1.1.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\dabcc\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Azure.Storage.Queues' 12.10.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-64x4-9hc6-r2h6",
+      "projectPath": "C:\\Users\\dabcc\\Desktop\\ABC RETAIL2\\ABC_Retail2\\ABC_Retail2\\ABC_Retail2.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dabcc\\Desktop\\ABC RETAIL2\\ABC_Retail2\\ABC_Retail2\\ABC_Retail2.csproj",
+      "libraryId": "Azure.Storage.Queues",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
